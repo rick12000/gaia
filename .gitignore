@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Vosk Speech Model (Download separately)
+vosk-model-*/
+
+# User-specific data
+spots.json
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
