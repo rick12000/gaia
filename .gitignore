@@ -6,7 +6,7 @@ __pycache__/
 vosk-model-*/
 
 # User-specific data
-spots.json
+deprecated_spots.json
 
 # Virtual environment
 venv/
@@ -15,3 +15,8 @@ venv/
 # IDE/Editor specific files
 .vscode/
 .idea/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec

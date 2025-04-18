@@ -2,3 +2,5 @@ vosk
 sounddevice
 pyautogui
 pyttsx3
+appdirs
+pyinstaller
